@@ -2,7 +2,7 @@
 
 The process i underwent when working on this model:
 
->> preparing data for analysis and modelling
+#preparing data for analysis and modelling
 >> loading the data,
 >> dropping unncessary columns,
 >> extracting categorical and numerical data from the entire kidney dataset.
