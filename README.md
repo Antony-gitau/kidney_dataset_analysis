@@ -1,4 +1,4 @@
-# kidney_dataset_analysis
+# Kidney_dataset_analysis
 
 The process i underwent when working on this model:
 
